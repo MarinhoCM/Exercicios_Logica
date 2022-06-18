@@ -1,4 +1,4 @@
-# Exercicios de Lógica do Portugol Studio
+# Exercicios de Lógica do Portugol Studio <img height="40" width="40" src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png"/>
 <h3><a href="https://github.com/MarinhoCM/Exercicios_Logica/blob/master/Exec1_antecessor.por"><strong>Exercício 01</strong></h3>
 <ul>
   <li><strong>Escreva um algoritmo para ler um valor e escrever na tela seu antecessor.</strong></li>
